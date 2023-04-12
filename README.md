@@ -4,6 +4,9 @@ Find words that are composites of two words, where the first ends in `t` and the
 
 ## Examples
 
+- overthick: "over thick" or "overt hick"?
+- pantheist: "pan theist" or "pant heist"?
+- rathole: "rat hole" or "raw thole"?
 - pothole: "pot hole" or "paw thole"?
 - meathook: "meat hook" or "me thook"?
 - hothead: "hot head" or "hoth ead"?
