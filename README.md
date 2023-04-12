@@ -2,7 +2,7 @@
 
 Find words that are composites of two words, where the first ends in `t` and the second starts with `h`.
 
-Examples:
+## Examples
 
 - pothole: "pot hole" or "paw thole"?
 - meathook: "meat hook" or "me thook"?
@@ -10,643 +10,643 @@ Examples:
 
 ## Full results
 
-adult hood
-adult hoods
-airt hing
-alt ho
-alt horn
-alt horns
-alt hough
-ant helices
-ant helix
-ant helixes
-ant hem
-ant hemic
-ant hems
-ant her
-ant hers
-ant hill
-ant hills
-apart heid
-apart heids
-apart hotel
-apart hotels
-archpriest hood
-archpriest hoods
-art house
-art houses
-at hame
-at hames
-at heist
-at heists
-at heling
-at hematic
-aunt hood
-aunt hoods
-bat he
-bat her
-bat hers
-bat hes
-bat hing
-bat horse
-bat horses
-bat hos
-bat hoses
-beast hood
-beast hoods
-beat hing
-bent hic
-bent hon
-bent hons
-bent hos
-bent hoses
-bet hank
-bet hanked
-bet hanking
-bet hanks
-bet horn
-bet horned
-bet horning
-bet horns
-bet hump
-bet humped
-bet humping
-bet humps
-blat her
-blat hers
-blet her
-blet hers
-blit he
-blit her
-blit hers
-blit hest
-blunt head
-blunt heads
-boat hook
-boat hooks
-boat house
-boat houses
-bolt head
-bolt heads
-bolt hole
-bolt holes
-boot hose
-bot han
-bot her
-bot hers
-bot hie
-bot hies
-bot hole
-bot holes
-bot hymen
-butt head
-butt heads
-cant hi
-cant hook
-cant hooks
-cart horse
-cart horses
-cat head
-cat heads
-cat hectic
-cat hexes
-cat hodograph
-cat hodographs
-cat hole
-cat holes
-cat hood
-cat hoods
-cat house
-cat houses
-chart house
-chart houses
-cit her
-cit hern
-cit herns
-cit hers
-clart head
-clart heads
-clot he
-clot hes
-clot hing
-clot hings
-comet her
-comet hers
-court house
-court houses
-diet her
-diet hers
-dit heist
-dit heists
-dit her
-dit hers
-dit hery
-dust heap
-dust heaps
-eat he
-est hete
-est hetes
-et he
-et her
-et hers
-et hic
-et hos
-et hoses
-et hylic
-faint hearted
-fart her
-fart hest
-fart hing
-fart hings
-fat head
-fat headed
-fat heads
-fat her
-fat hers
-fat hership
-fat herships
-fat hom
-fat homed
-fat homer
-fat homers
-fat homing
-fat homs
-feat her
-feat herbed
-feat hers
-feat hery
-first hand
-flat head
-flat heads
-flint head
-flint heads
-foot hill
-foot hills
-foot hold
-foot holds
-forgat her
-forgat hers
-gat her
-gat hers
-giant hood
-giant hoods
-gilt head
-gilt heads
-girt hing
-gnat hic
-goat herd
-goat herds
-got hic
-grandparent hood
-grandparent hoods
-great hearted
-guest house
-guest houses
-hat ha
-heat hen
-heat henries
-heat henry
-heat hens
-heat her
-heat hers
-heat hery
-het her
-hit he
-hit her
-hit hers
-hit hes
-hot head
-hot headed
-hot heads
-hot house
-hot housed
-hot houses
-hot housing
-hot housings
-impost humate
-impost humates
-infant hood
-infant hoods
-it her
-jolt head
-jolt heads
-kant ha
-kant has
-kit he
-kit hes
-kit hing
-knight head
-knight heads
-knight hood
-knight hoods
-knot hole
-knot holes
-lant horn
-lant horns
-lat he
-lat hen
-lat her
-lat hers
-lat hery
-lat hes
-lat hi
-lat hing
-lat hings
-lat his
-leat her
-leat hern
-leat hers
-leat hery
-let he
-let hes
-let hied
-light headed
-light hearted
-light house
-light houseman
-light housemen
-light houses
-lit hate
-lit hates
-lit he
-lit hemic
-lit her
-lit hes
-lit hest
-lit hic
-lit hing
-lit ho
-lit hoed
-lit hoing
-lit hon
-lit hon
-lit hops
-lit hos
-lot her
-lot hest
-malt ha
-malt has
-mast head
-mast headed
-mast heading
-mast heads
-mast house
-mast houses
-mat hematic
-mat hematics
-maut her
-maut hers
-meat he
-meat head
-meat heads
-meat hes
-ment hols
-met haemoglobin
-met haemoglobins
-met hemoglobin
-met hemoglobins
-met ho
-met hod
-met hods
-met hos
-met hylic
-moit her
-moit hers
-mot her
-mot hers
-mot hery
-mut ha
-mut has
-neat herd
-neat herds
-net head
-net heads
-net her
-net herlings
-night hawk
-night hawks
-nit her
-nit hers
-nit hing
-nit hings
-not her
-not hing
-not hings
-nut hatch
-nut hatches
-nut house
-nut houses
-oast house
-oast houses
-oat hable
-ort ho
-ort hoaxes
-ort hos
-ort hoses
-out handle
-out handled
-out handles
-out handling
-out haul
-out hauler
-out haulers
-out hauls
-out hear
-out heard
-out hearing
-out hears
-out her
-out hire
-out hired
-out hires
-out hiring
-out hit
-out hits
-out hitting
-out homer
-out homered
-out homering
-out homers
-out house
-out houses
-out howl
-out howled
-out howling
-out howls
-out humor
-out humored
-out humoring
-out humors
-out hunt
-out hunted
-out hunting
-out hunts
-out hustle
-out hustled
-out hustles
-out hustling
-overt hick
-overt hin
-pant heist
-pant heists
-pant her
-pant hers
-parent hood
-parent hoods
-pat hic
-pat hing
-pat hogen
-pat hogens
-pat hos
-pat hoses
-pent house
-pent housed
-pent houses
-pent housing
-pest hole
-pest holes
-pest house
-pest houses
-pet her
-pet hers
-pilot house
-pilot houses
-pit head
-pit heads
-pit hing
-pit hoi
-pit hos
-pleat her
-pleat hers
-port hole
-port holes
-port hors
-port horses
-port hos
-port hoses
-port house
-port houses
-post harvest
-post haste
-post hastes
-post heat
-post heats
-post hemorrhagic
-post holder
-post holders
-post hole
-post holes
-post holiday
-post holocaust
-post horse
-post horses
-post hospital
-post house
-post houses
-post humous
-post hypnotic
-pot head
-pot heads
-pot her
-pot herb
-pot herbs
-pot hers
-pot hery
-pot holder
-pot holders
-pot hole
-pot holed
-pot holes
-pot holing
-pot holings
-pot hook
-pot hooks
-pot hos
-pot house
-pot houses
-pot hunter
-pot hunters
-pot hunting
-pot huntings
-pout her
-pout hers
-priest hood
-priest hoods
-print head
-print heads
-prophet hood
-prophet hoods
-rat ha
-rat has
-rat he
-rat her
-rat hest
-rat hole
-rat holes
-rat house
-rat houses
-rest harrow
-rest harrows
-root hold
-root holds
-rot her
-rot hers
-rout hie
-saint hood
-saint hoods
-scat he
-scat hes
-scat hing
-scout her
-scout hers
-scout hery
-servant hood
-servant hoods
-shit head
-shit heads
-shit hole
-shit holes
-shit house
-shit houses
-short hair
-short haired
-short hairs
-short hand
-short handed
-short hands
-short head
-short heads
-short hold
-short horn
-short horns
-shot hole
-shot holes
-shout her
-shout hers
-sit he
-sit hen
-sit hence
-sit hens
-sit hes
-sit hing
-slat her
-slat hers
-slit her
-slit hers
-slit hery
-slot hing
-smit heries
-smit hers
-smit hery
-smit hied
-smit hies
-smit hing
-smit hying
-smoot hable
-smoot hen
-smoot hens
-smoot her
-smoot hers
-smoot hes
-smoot hest
-smoot hie
-smoot hies
-smoot hing
-smoot hings
-smoot hish
-soft head
-soft headed
-soft heads
-soft hearted
-soot he
-soot her
-soot hers
-soot hes
-soot hest
-soot hing
-soot hings
-sout heast
-sout heasts
-sout her
-sout hern
-sout herns
-sout hers
-sout hing
-sout hings
-spart he
-spart hes
-spat he
-spat hes
-spat hic
-spat hose
-stealt hing
-stealt hings
-stout hearted
-stout heries
-swat hable
-swat he
-swat her
-swat hers
-swat hes
-swat hing
-sweet heart
-sweet hearted
-sweet hearting
-sweet hearts
-tallit hes
-tallit him
-tat hing
-tet her
-tet hers
-tit hable
-tit he
-tit her
-tit hers
-tit hes
-tit hing
-tit hings
-toot hing
-toot hings
-tot her
-trot hing
-ungirt hing
-unit holder
-unit holders
-want hill
-want hills
-wart hog
-wart hogs
-watt hour
-watt hours
-wet her
-wet hers
-whet her
-whit her
-whit hers
-wit he
-wit her
-wit hers
-wit hes
-wit hies
-wit hin
-wit hing
-wit hins
-wit hout
-wit houts
-wort hied
-wort hies
-wort hing
-wort hying
-writ he
-writ hen
-writ her
-writ hers
-writ hes
-writ hing
-writ hings
-zit her
-zit hern
-zit herns
-zit hers
-zoot home
-zoot homes
+- adult hood
+- adult hoods
+- airt hing
+- alt ho
+- alt horn
+- alt horns
+- alt hough
+- ant helices
+- ant helix
+- ant helixes
+- ant hem
+- ant hemic
+- ant hems
+- ant her
+- ant hers
+- ant hill
+- ant hills
+- apart heid
+- apart heids
+- apart hotel
+- apart hotels
+- archpriest hood
+- archpriest hoods
+- art house
+- art houses
+- at hame
+- at hames
+- at heist
+- at heists
+- at heling
+- at hematic
+- aunt hood
+- aunt hoods
+- bat he
+- bat her
+- bat hers
+- bat hes
+- bat hing
+- bat horse
+- bat horses
+- bat hos
+- bat hoses
+- beast hood
+- beast hoods
+- beat hing
+- bent hic
+- bent hon
+- bent hons
+- bent hos
+- bent hoses
+- bet hank
+- bet hanked
+- bet hanking
+- bet hanks
+- bet horn
+- bet horned
+- bet horning
+- bet horns
+- bet hump
+- bet humped
+- bet humping
+- bet humps
+- blat her
+- blat hers
+- blet her
+- blet hers
+- blit he
+- blit her
+- blit hers
+- blit hest
+- blunt head
+- blunt heads
+- boat hook
+- boat hooks
+- boat house
+- boat houses
+- bolt head
+- bolt heads
+- bolt hole
+- bolt holes
+- boot hose
+- bot han
+- bot her
+- bot hers
+- bot hie
+- bot hies
+- bot hole
+- bot holes
+- bot hymen
+- butt head
+- butt heads
+- cant hi
+- cant hook
+- cant hooks
+- cart horse
+- cart horses
+- cat head
+- cat heads
+- cat hectic
+- cat hexes
+- cat hodograph
+- cat hodographs
+- cat hole
+- cat holes
+- cat hood
+- cat hoods
+- cat house
+- cat houses
+- chart house
+- chart houses
+- cit her
+- cit hern
+- cit herns
+- cit hers
+- clart head
+- clart heads
+- clot he
+- clot hes
+- clot hing
+- clot hings
+- comet her
+- comet hers
+- court house
+- court houses
+- diet her
+- diet hers
+- dit heist
+- dit heists
+- dit her
+- dit hers
+- dit hery
+- dust heap
+- dust heaps
+- eat he
+- est hete
+- est hetes
+- et he
+- et her
+- et hers
+- et hic
+- et hos
+- et hoses
+- et hylic
+- faint hearted
+- fart her
+- fart hest
+- fart hing
+- fart hings
+- fat head
+- fat headed
+- fat heads
+- fat her
+- fat hers
+- fat hership
+- fat herships
+- fat hom
+- fat homed
+- fat homer
+- fat homers
+- fat homing
+- fat homs
+- feat her
+- feat herbed
+- feat hers
+- feat hery
+- first hand
+- flat head
+- flat heads
+- flint head
+- flint heads
+- foot hill
+- foot hills
+- foot hold
+- foot holds
+- forgat her
+- forgat hers
+- gat her
+- gat hers
+- giant hood
+- giant hoods
+- gilt head
+- gilt heads
+- girt hing
+- gnat hic
+- goat herd
+- goat herds
+- got hic
+- grandparent hood
+- grandparent hoods
+- great hearted
+- guest house
+- guest houses
+- hat ha
+- heat hen
+- heat henries
+- heat henry
+- heat hens
+- heat her
+- heat hers
+- heat hery
+- het her
+- hit he
+- hit her
+- hit hers
+- hit hes
+- hot head
+- hot headed
+- hot heads
+- hot house
+- hot housed
+- hot houses
+- hot housing
+- hot housings
+- impost humate
+- impost humates
+- infant hood
+- infant hoods
+- it her
+- jolt head
+- jolt heads
+- kant ha
+- kant has
+- kit he
+- kit hes
+- kit hing
+- knight head
+- knight heads
+- knight hood
+- knight hoods
+- knot hole
+- knot holes
+- lant horn
+- lant horns
+- lat he
+- lat hen
+- lat her
+- lat hers
+- lat hery
+- lat hes
+- lat hi
+- lat hing
+- lat hings
+- lat his
+- leat her
+- leat hern
+- leat hers
+- leat hery
+- let he
+- let hes
+- let hied
+- light headed
+- light hearted
+- light house
+- light houseman
+- light housemen
+- light houses
+- lit hate
+- lit hates
+- lit he
+- lit hemic
+- lit her
+- lit hes
+- lit hest
+- lit hic
+- lit hing
+- lit ho
+- lit hoed
+- lit hoing
+- lit hon
+- lit hon
+- lit hops
+- lit hos
+- lot her
+- lot hest
+- malt ha
+- malt has
+- mast head
+- mast headed
+- mast heading
+- mast heads
+- mast house
+- mast houses
+- mat hematic
+- mat hematics
+- maut her
+- maut hers
+- meat he
+- meat head
+- meat heads
+- meat hes
+- ment hols
+- met haemoglobin
+- met haemoglobins
+- met hemoglobin
+- met hemoglobins
+- met ho
+- met hod
+- met hods
+- met hos
+- met hylic
+- moit her
+- moit hers
+- mot her
+- mot hers
+- mot hery
+- mut ha
+- mut has
+- neat herd
+- neat herds
+- net head
+- net heads
+- net her
+- net herlings
+- night hawk
+- night hawks
+- nit her
+- nit hers
+- nit hing
+- nit hings
+- not her
+- not hing
+- not hings
+- nut hatch
+- nut hatches
+- nut house
+- nut houses
+- oast house
+- oast houses
+- oat hable
+- ort ho
+- ort hoaxes
+- ort hos
+- ort hoses
+- out handle
+- out handled
+- out handles
+- out handling
+- out haul
+- out hauler
+- out haulers
+- out hauls
+- out hear
+- out heard
+- out hearing
+- out hears
+- out her
+- out hire
+- out hired
+- out hires
+- out hiring
+- out hit
+- out hits
+- out hitting
+- out homer
+- out homered
+- out homering
+- out homers
+- out house
+- out houses
+- out howl
+- out howled
+- out howling
+- out howls
+- out humor
+- out humored
+- out humoring
+- out humors
+- out hunt
+- out hunted
+- out hunting
+- out hunts
+- out hustle
+- out hustled
+- out hustles
+- out hustling
+- overt hick
+- overt hin
+- pant heist
+- pant heists
+- pant her
+- pant hers
+- parent hood
+- parent hoods
+- pat hic
+- pat hing
+- pat hogen
+- pat hogens
+- pat hos
+- pat hoses
+- pent house
+- pent housed
+- pent houses
+- pent housing
+- pest hole
+- pest holes
+- pest house
+- pest houses
+- pet her
+- pet hers
+- pilot house
+- pilot houses
+- pit head
+- pit heads
+- pit hing
+- pit hoi
+- pit hos
+- pleat her
+- pleat hers
+- port hole
+- port holes
+- port hors
+- port horses
+- port hos
+- port hoses
+- port house
+- port houses
+- post harvest
+- post haste
+- post hastes
+- post heat
+- post heats
+- post hemorrhagic
+- post holder
+- post holders
+- post hole
+- post holes
+- post holiday
+- post holocaust
+- post horse
+- post horses
+- post hospital
+- post house
+- post houses
+- post humous
+- post hypnotic
+- pot head
+- pot heads
+- pot her
+- pot herb
+- pot herbs
+- pot hers
+- pot hery
+- pot holder
+- pot holders
+- pot hole
+- pot holed
+- pot holes
+- pot holing
+- pot holings
+- pot hook
+- pot hooks
+- pot hos
+- pot house
+- pot houses
+- pot hunter
+- pot hunters
+- pot hunting
+- pot huntings
+- pout her
+- pout hers
+- priest hood
+- priest hoods
+- print head
+- print heads
+- prophet hood
+- prophet hoods
+- rat ha
+- rat has
+- rat he
+- rat her
+- rat hest
+- rat hole
+- rat holes
+- rat house
+- rat houses
+- rest harrow
+- rest harrows
+- root hold
+- root holds
+- rot her
+- rot hers
+- rout hie
+- saint hood
+- saint hoods
+- scat he
+- scat hes
+- scat hing
+- scout her
+- scout hers
+- scout hery
+- servant hood
+- servant hoods
+- shit head
+- shit heads
+- shit hole
+- shit holes
+- shit house
+- shit houses
+- short hair
+- short haired
+- short hairs
+- short hand
+- short handed
+- short hands
+- short head
+- short heads
+- short hold
+- short horn
+- short horns
+- shot hole
+- shot holes
+- shout her
+- shout hers
+- sit he
+- sit hen
+- sit hence
+- sit hens
+- sit hes
+- sit hing
+- slat her
+- slat hers
+- slit her
+- slit hers
+- slit hery
+- slot hing
+- smit heries
+- smit hers
+- smit hery
+- smit hied
+- smit hies
+- smit hing
+- smit hying
+- smoot hable
+- smoot hen
+- smoot hens
+- smoot her
+- smoot hers
+- smoot hes
+- smoot hest
+- smoot hie
+- smoot hies
+- smoot hing
+- smoot hings
+- smoot hish
+- soft head
+- soft headed
+- soft heads
+- soft hearted
+- soot he
+- soot her
+- soot hers
+- soot hes
+- soot hest
+- soot hing
+- soot hings
+- sout heast
+- sout heasts
+- sout her
+- sout hern
+- sout herns
+- sout hers
+- sout hing
+- sout hings
+- spart he
+- spart hes
+- spat he
+- spat hes
+- spat hic
+- spat hose
+- stealt hing
+- stealt hings
+- stout hearted
+- stout heries
+- swat hable
+- swat he
+- swat her
+- swat hers
+- swat hes
+- swat hing
+- sweet heart
+- sweet hearted
+- sweet hearting
+- sweet hearts
+- tallit hes
+- tallit him
+- tat hing
+- tet her
+- tet hers
+- tit hable
+- tit he
+- tit her
+- tit hers
+- tit hes
+- tit hing
+- tit hings
+- toot hing
+- toot hings
+- tot her
+- trot hing
+- ungirt hing
+- unit holder
+- unit holders
+- want hill
+- want hills
+- wart hog
+- wart hogs
+- watt hour
+- watt hours
+- wet her
+- wet hers
+- whet her
+- whit her
+- whit hers
+- wit he
+- wit her
+- wit hers
+- wit hes
+- wit hies
+- wit hin
+- wit hing
+- wit hins
+- wit hout
+- wit houts
+- wort hied
+- wort hies
+- wort hing
+- wort hying
+- writ he
+- writ hen
+- writ her
+- writ hers
+- writ hes
+- writ hing
+- writ hings
+- zit her
+- zit hern
+- zit herns
+- zit hers
+- zoot home
+- zoot homes
